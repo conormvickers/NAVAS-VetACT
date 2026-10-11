@@ -1,0 +1,26 @@
+Dx
+Wide complex tachycardia | HR >180-200 bpm | [assets/hyperkalemia ecg.jpeg] 
+
+Tx
+1 Communicate with team
+Call for help
+2 Check the patient:
+Pulse quality, blood pressure
+If no pulse/HR, start CPR [Cardiac Arrest]
+3 Decrease or stop all anesthetics
+4 Administer lidocaine
+Cat 0.5 mg/kg IV [Drugs (Lidocaine - cat) 530]
+Dog 2 mg/kg IV [Drugs (Lidocaine - dog) 742]
+Repeat up to 4 times
+5 If lidocaine ineffective
+Consider: [Drugs (Amiodarone) 50] or [Drugs (Procainamide) 917] 
+Consider: [Drugs (Magnesium Sulfate) 917] or [Drugs (Esmolol) 258] 
+6 Consider cardiology consult +/- cardioversion
+
+Drug doses:
+Amiodarone IV 5 mg/kg | 1.5 mg/mL
+Esmolol IV 0.25 mg/kg (administered in increments over 2 – 5 minutes followed by 10 –200 mcg/kg/min) | 10 mg/mL
+Lidocaine Cats IV 0.5 mg/kg | 20 mg/mL
+Lidocaine Dogs IV 2 mg/kg | 20 mg/mL
+Magnesium Sulfate 30 mg/kg (diluted & admin over 10 minutes, then 15 – 20 mg/kg/hr) | self dilute
+Procainamide 2 mg/kg (slowly over 2 minutes, then 10 – 40 mcg/kg/min) | 100 mg/mL

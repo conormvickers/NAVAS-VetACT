@@ -1,0 +1,29 @@
+Dx
+Hyperkalemia | K+ >5.5 mEq/L
+Classic ECG changes | [assets/hyperkalemia.jpeg] | Tall, peaked T waves | Bradycardia | Loss of P waves | Wide QRS complexes | Sine wave 
+Also Possible | Various tachyarrhythmias
+
+Tx
+1 Communicate with team
+Check patient 
+If no pulse/HR, start CPR [Cardiac Arrest]
+2 Stop IV solutions containing potassium, including blood products
+3 If ECG changes present
+Administer [Drugs (Calcium Gluconate) 60] 10% 0.5 mL/kg IV 
+4 To lower potassium, consider
+Administer regular [Drugs (Insulin) 303] with dextrose 
+Administer [Drugs (Terbutaline) 520] or [Drugs (Albuterol) 525] 
+5 If acidemic consider
+Hyperventilating patient to 30mmHg 
+Administering sodium bicarbonate
+6 Correct underlying [Causes] 
+
+Drug doses:
+Calcium gluconate 10% IV 50 mg/kg ( administer slowly over 20 minutes )| 100 mg/mL
+Regular insulin IV 0.1 U/kg ( follow with 2.5 grams dextrose for each unit of insulin, monitor BG ) | 100 U/mL
+Sodium bicarbonate IV 1 meq/kg | 1 meq/mL
+Albuterol 1 puff cat/small dog, 2 puffs large dog | 90 mcg/puff 
+Terbutaline SQ 0.01 mg/kg | 1 mg/mL
+
+Causes
+Causes | Urinary obstruction | Uroabdomen | Renal insufficiency | Idiopathic (Greyhounds) | Iatrogenic (K+ supplementation) | Addisonian crisis | Tumor lysis syndrome | Transfusion of “old” blood, massive transfusion | Malignant hyperthermia | Severe burns and crushing injuries 

@@ -1,0 +1,21 @@
+Dx
+Supraventricular Tachycardia | [assets/svt.jpeg] | Narrow complex tachycardia
+Differentiate from SINUS tachycardia | more likely SVT if >250 bpm | or | sudden onset/offset
+
+Tx
+1 Communicate with team
+Call for help
+2  Check the patient
+Pulse quality/blood pressure 
+3  Decrease or stop all anesthetics
+4  Attempt vagal maneuver (press on eyes)
+5  Rate control drugs:
+[Drugs (Diltiazem) 50] slowly IV
+[Drugs (Esmolol) 190] slowly IV
+Dogs only: Consider [Drugs (Lidocaine) 190]
+6 Cardiology consult +/- cardioversion
+
+Drug doses:
+Diltiazem IV 0.05 mg/kg (Repeat up to 5 times over 10 minutes) | 0.05 mg/kg
+Esmolol IV 0.25 mg/kg (administered in increments over 2 – 5 minutes) | 10 mg/mL
+Lidocaine Dogs IV 2 mg/kg | 20 mg/mL

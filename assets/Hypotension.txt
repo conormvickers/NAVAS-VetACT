@@ -1,0 +1,58 @@
+Dx
+Mean Arterial Pressure | <60 mmHg
+Doppler Pressure | <90 mmHg
+
+Tx
+1 Communicate with team
+Hemorrhage? 
+Vascular compression (ex. surgical retraction, insufflation, pneumothorax)?
+Anaphylaxis? 
+2 Check the patient 
+Assess anesthetic depth (see # 4)
+Check HR & rhythm, pulse quality, mucous membranes
+If bradycardia, give [Drugs (glycopyrrolate) 250 ] infusion 0.01 mg/kg or [Drugs (atropine) 60] infusion 0.02 mg/kg IV, or go to [Bradycardia]
+If no pulse/hr go to cardiac arrest flow sheet [Cardiac Arrest]
+3 Consider equipment error if patient assessment OK
+Retake BP with new machine/ cuff
+4 Decrease anesthetic depth (if possible)
+Consider additional analgesics
+5 Administer IV fluid bolus
+Balanced [Drugs (isotonic crystalloids) 450] 5 mL/kg IV over 5 min 
+Repeat as necessary
+Consider dynamic assessment of fluid responsiveness (e.g., cardiac or vena cava POCUS, PVI/PPV)
+Assess total volume delivered (mL/kg)
+6 Consider: 
+[Drugs (Hypertonic Saline) 450], 
+Blood products, 
+[Drugs (Artificial colloids) 450]
+7 Pressors & Inotropes
+[Drugs (Ephedrine) 1015] bolus 0.05-0.1 mg/kg IV (repeat up to 3x) 
+[Drugs (Dopamine) 1518] infusion 
+[Drugs ( Norepinephrine) 1800] infusion 
+Adjunctive
+  [Drugs (Dobutamine) 2016] infusion 
+  [Drugs (Vasopressin) 2213] infusion 
+  [Drugs (Phenylephrine) 2213] infusion 
+  [Drugs (Epinephrine) 1311] bolus 1 mcg/kg IV (repeat up to 3x) 
+  [Drugs (Epinephrine) 2213] infusion 
+
+Drug doses:
+Atropine IV 0.02 mg/kg | 0.4 mg/mL 
+Glycopyrrolate IV 0.01 mg/kg | 0.2 mg/mL
+Fluids
+Isotonic crystalloids IV (Consider redosing 2-3 times) 5 mL/kg 
+Hypertonic saline IV 2 mL/kg
+Artificial colloids IV 5 mL/kg
+Sympathomimetics 
+Ephedrine Bolus IV (Consider repeating) 0.1 mg/kg | self dilute
+Epinephrine Bolus IV 1 mcg/kg | self dilute
+Infusions
+Dopamine Inf 5-15 mcg/kg/min | self dilute
+Norepinephrine Inf 0.1-0.3 mcg/kg/min | self dilute
+DOBUTamine Inf 7 mcg/kg/min | self dilute
+Vasopressin Inf 0.5 mU/kg/min | self dilute
+Phenylephrine Inf 1 mcg/kg/min  | self dilute
+Epinephrine Inf 0.05 mcg/kg/min | self dilute
+
+Causes
+Consider | Anaphylaxis (possible wheals, chemosis, reduced pulmonary compliance, recent drug admin) | Excessive anesthetic depth| Hemorrhage | Addisonian crisis | Hypovolemia | Pneumothorax | Tamponade | Sepsis | Surgical insufflation or retraction

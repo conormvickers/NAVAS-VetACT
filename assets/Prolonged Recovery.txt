@@ -1,0 +1,29 @@
+Dx
+| Most patients regain consciousness within 15-20 minutes 
+Exceptions | Unstable patients | Invasive procedures | Total IV anesthesia protocols
+
+Tx
+1 Communicate with team
+Check the patient’s vital signs
+Is airway adequately protected?
+Is there hypothermia, hypotension, hypoxemia, or hypercarbia?
+2 Ensure all inhalant and injectable anesthetics are discontinued
+3 Stimulate the patient (rub vigorously, shift position, make noise)
+4 Consider reversal agents
+Benzodiazepines: [Drugs (Flumazenil) 100]
+Alpha-2 agonists: [Drugs (Atipamazole) 50]
+Opioids: consider slow titration of [Drugs (Naloxone) 100]
+5 Review anesthetic record
+Profound physiologic disturbance?
+Relative or absolute drug overdose?
+6 Check for hypoglycemia, anemia, electrolyte or acid-base abnormality
+7 Consider co-existing disease 
+Severe liver disease
+Addison’s
+Intracranial disease
+New neurologic disease (ischemia/increased ICP)
+
+Drug doses:
+Atipamazole IM 100 mcg/kg | 5000 mcg/mL
+Flumazenil IV 0.01 mg/kg (consider repeating twice) | 0.1 mg/mL
+Naloxone IV 0.005 mg/kg (consider repeating up to 0.02 mg/kg) | 0.4 mg/mL

@@ -1,0 +1,27 @@
+Dx
+Regurgitation | Passive movement of stomach contents into mouth/nasopharynx 
+Possible Sequelae | Aspiration pneumonia  | Esophagitis/esophageal stricture | Rhinitis/nasopharyngeal stenosis
+
+Tx
+1 Communicate with team
+Check endotracheal tube seal
+Minimum no leak volume 20 cmH2O
+Can assess with cuff manometer
+2 Flush esophagus with warm tap water
+Red rubber catheter, Salem sump, or similar
+Catheter tip 35 - 60 mL syringe
+Source of suction
+Flush until suctioned water is clear
+3 If regurgitation noted from nose, flush & suction nasal cavity with saline
+4 Consider:
+[Drugs (Famotidine) 287] or [Drugs (Pantoprazole) 287] 
+Localized [Drugs (Sodium Bicarbonate Infusion) 76]
+Oral [Drugs (Sucralfate) 290] once awake 
+5 Check oropharynx for fluid/material prior to extubation
+6 Monitor for cough, increased respiratory rate, & regurgitation
+
+Drug doses:
+Sodium Bicarbonate 10 mL/application (topical application into esophagus, Consider repeating) | 4.2 %solution 
+Famotidine 0.5 mg/kg IV  | 10 mg/mL
+Pantoprazole 1 mg/kg IV slowly | 4 mg/mL
+Sucralfate 1 gm PO q8h (dissolve in wáter to form slurry) | 1 gm tablet

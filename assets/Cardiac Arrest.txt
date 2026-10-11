@@ -1,0 +1,85 @@
+Dx
+Non-Shockable Arrest Rhythms | [assets/asystole.jpeg] Asystole | [assets/pea.jpeg] Pulseless electrical activity
+Shockable Arrest Rhythms | [assets/pulselessvtach.jpeg] Pulseless ventricular tachycardia | [assets/vfib.jpeg] Ventricular fibrillation
+
+Non-shockable
+Non-shockable Rhythm
+1 Communicate with team
+Designate a code leader
+2 Check airway and IV access
+3 Start compressions 100 – 120 bpm, 
+Compress 1/3 – ½ of chest diameter
+Do not lean on chest, allow recoil
+Consider open chest/direct cardiac compression, esp. during surgery of a body cavity
+Continue uninterrupted for 2 minutes
+4 Discontinue inhalant delivery
+Flush breathing circuit with O2
+5 Ventilate 8-12 breaths per minute, 10 mL/kg
+6 Administer [Drugs (Epinephrine) 70] 0.01 mg/kg IV 
+Alternative: [Drugs (Vasopressin) 260] 0.8 U/kg IV 
+7 Administer atropine 
+Administer [Drugs (Atropine) 475] 0.04 mg/kg IV once 
+8 Reverse opioids and benzodiazepines
+See [Drugs (Naloxone) 1924] and [Drugs (Flumazenil) 1924]
+Consider reversing alpha2 agonists IV [Drugs (Atipamazole) 1304]
+9 If ETCO2 <18 mmHg, re-assess technique
+10 Change compressor personnel every 2 minutes
+Assess ECG during switch
+Consider transthoracic ultrasound of cardiac contractility & filling
+11 Repeat [Drugs (Epinephrine) 80] 0.01 mg/kg IV q 3 – 5 minutes 
+12 If CPR >15 min 
+Consider [Drugs (Sodium Bicarb) 2150]
+
+Shockable
+Shockable Rhythm
+1 Communicate with team 
+Designate a code leader
+Charge defibrillator
+2 Check airway and IV access
+3 Start compressions 100 – 120 bpm, 
+Compress 1/3 – 1/2 of chest diameter
+Do not lean on chest, allow recoil
+Consider open chest/direct cardiac compression, esp. during surgery of a body cavity
+Continue uninterrupted for 2 minutes
+4 Discontinue inhalant delivery
+Flush breathing circuit with O2
+5 Ventilate 8-12 breaths per minute, 10 mL/kg
+6 Reverse opioids and benzodiazepines
+See [Drugs (Naloxone) 1924] and [Drugs (Flumazenil) 1924]
+Consider reversing alpha2 agonists IV [Drugs (Atipamazole) 1304]
+7 Pause and defibrillate
+Call CLEAR
+First shock 
+  External: 2 J/kg [Drugs (Shock) 634]
+  Internal: 0.2  J/kg [Drugs (Shock) 634]
+8 2 minutes of uninterrupted chest compressions
+Call CLEAR
+Subsequent shocks
+  External: 4 J/kg [Drugs (Shock) 634]
+  Internal: 0.4 J/kg [Drugs (Shock) 634]
+9 If rhythm does not convert after 2 shocks,
+Administer [Drugs (Epinephrine) 65] 0.01 mg/kg or [Drugs (Vasopressin) 240] 0.8 U/kg q 3-5 min 
+Consider [Drugs (Esmolol) 1500] 0.5 mg/kg IV 3–5 min, then infusion at 50 µg/kg/min 
+Dogs: Administer [Drugs (Lidocaine) 2100] 2 mg/kg IV 
+Cats : Administer [Drugs (Amiodarone) 1112] 5 mg/kg IV 
+
+Drug doses:
+Epinephrine IV 0.01 mg/kg | 1 mg/mL
+Vasopressin IV 0.8 U/kg | 20 U/mL
+Atropine IV 0.04 mg/kg | 0.4 mg/mL
+Defibrillation
+External defibrillation  2 J/kg 
+Internal defibrillation 0.2 J/kg
+Other Drugs
+Amiodarone IV 5 mg/kg | 1.5 mg/mL
+Atipamezole IV 100 mcg/kg | 5000 mcg/mL
+Esmolol IV 0.5 mg/kg | 10 mg/mL
+Esmolol Inf 50 mcg/kg/min  | self dilute
+Flumazenil IV 0.02 mg/kg | 0.1 mg/mL
+Lidocaine Dogs IV 2 mg/kg | 20 mg/mL
+Naloxone IV 0.02 mg/kg | 0.4 mg/mL
+Sodium bicarbonate IV 1 meq/kg  | 1 meq/mL
+
+Causes
+Reversible Causes (Hs & Ts) |
+| Hypovolemia | Hypoxia | Hydrogen ions (acidosis) | Hyper/hypokalemia | Hypo/hyperthermia | Hypoglycemia || | Toxins (anesthetic overdose) | Tamponade | Tension pneumothorax | Thrombosis (pulmonary) | Trauma (surgical bleeding) 

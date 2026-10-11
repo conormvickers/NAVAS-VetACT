@@ -1,0 +1,32 @@
+Dx
+|Low arterial oxygen concentration || or || |SpO2 < 94%
+
+Tx
+1 Communicate with team
+2 Check patient
+3 Assess equipment
+Confirm flowmeter on (check FiO2 if possible)
+Check connections of anesthesia machine, circuit connected and ETT
+Assess endotracheal tube depth (not too deep)
+4 Ventilate by hand
+Assess compliance (ease of ventilation by hand)
+Assess presence and shape of capnograph
+Listen to lung sounds on both sides of chest
+5 Consider:
+Suctioning airway
+Discontinuing anesthesia
+T-FAST/ radiographs
+Recruitment maneuver
+Bronchodilator [Drugs (Drugs)]
+Thoracocentesis 
+Arterial blood gas
+Repositioning ETT
+
+Drug doses:
+Albuterol (1 puff cat/small dog, 2 puffs large dog) | 90 mcg/puff 
+Terbutaline SQ 0.01 mg/kg | 1 mg/mL
+
+Causes
+Think: Equipment or Patient?
+Equipment | O2 supply failure | Circuit mis/disconnected | Airway obstruction | Endobronchial intubation | Extubation
+Patient | Respiratory: Apnea, Anaphylaxis, Aspiration, Bronchospasm, Diaphragmatic hernia, Hypoventilation, Obesity, Pleural fluid, Pneumothorax, Pneumonia, Pulmonary edema | Cardiovascular: shunt, CHF, PTE, Low cardiac output | Hemoglobin: Low SpO2, Normal PaO2

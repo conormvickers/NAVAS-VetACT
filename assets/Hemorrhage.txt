@@ -1,0 +1,61 @@
+Dx
+| Blood loss >20% | of <bold>blood volume || or || | PCV <20%-25% | and hemodynamically unstable
+Consider transfusion with 
+| >20% loss of blood volume || or || |PCV/TS ~20/4.0 
+AND 
+| Signs of systemic perfusion deficit: persistent hypotension, increased lactate, decreased HCO3-, or if estimated blood loss exceeds calculated maximum allowable blood loss.
+
+Tx
+1. Communicate with surgeon & team
+Call for help
+2. Check the patient
+Depth, mm color, pulse quality, BP
+Consider decreasing inhalant delivery
+Keep patient warm 
+3. Bolus isotonic crystalloid fluids 
+ 10 mL/kg [Drugs (crystalloid fluids) 20]
+Consider repeating once or twice: [Drugs (hypertonic saline) 20] 2 mL/kg 
+[Drugs (Artificial colloids) 20] 3 mL/kg 
+4. For cats: blood typing recommended, crossmatch if time permits 
+If feline blood unavailable, consider canine blood transfusion once only
+5. For dogs: blood typing recommended, crossmatch if time permits 
+Universal donor without typing/crossmatch can be used if first transfusion/nulliparous
+6. Starting volumes:
+Whole blood 20 mL/kg [Calculations]
+PRBCs 10 mL/kg [Calculations]
+Consider plasma 10 mL/kg and platelet transfusion [Calculations]
+Start slowly if possible, monitor response, and consider repeating
+7. Consider administration of [Drugs (antifibrinolytics) 690]
+8. Obtain PCV/TS, blood gas with electrolytes, lactate
+Monitor for development of hypocalcemia [Drugs (Calcium Gluconate) 900] 
+and [Hyperkalemia]
+
+Drug doses:
+Fluids
+Isotonic crystalloids (over 10 minutes) 10 mL/kg 
+Hypertonic saline 2 mL/kg (over 15 minutes)
+Artificial colloids (hetastarch etc) 3 mL/kg 
+Antifibrinolytics
+Aminocaproic acid IV 50 mg/kg (50 mg/kg IV over 1 hr, then 15 mg/kg/hr for 6 hours) | 20 mg/mL
+Tranexamic acid IV 15 mg/kg (over 20 minutes) | 10 mg/mL
+Hypocalcemia Treatment
+Calcium gluconate 10% IV 50 mg/kg ( administer slowly over 20 minutes )| 100 mg/mL
+
+Calc
+Estimated Blood Volumes | Dog 90 mL/kg (have app do math based on entered weight) | Cat 60 mL/kg (have app do math based on entered weight)
+Estimating Blood Loss | Check floor and table | Weigh sponges (1 mL blood = 1 gram) | Assess volume of blood in suction canister
+ 	Blood (mL) in canister = Volume in canister x (PCV of canister fluid/preop PCV patient) (can app do math if user enters volume in canister and PCVs?)
+Whole Blood Transfusion:
+mL = (Desired PCV - Recipient PCV) x (Recipient blood volume) 
+                         Donor PCV
+(can app do math if user enters weight and PCVs?)
+Packed Red Blood Cells:
+mL = Recipient blood volume x [(Desired PCV – PCV of recipient)/PCV of blood unit]
+Plasma:
+10 mL/kg plasma 
+Allowable Blood Loss:
+ABL = Blood volume x (PCVi - PCVf/PCVavg)
+PCVi = initial HCT
+PCVf = lowest allowable HCT
+PCVavg = average of initial and final HCT 
+(can app do math if user enters weight and PCVs?)

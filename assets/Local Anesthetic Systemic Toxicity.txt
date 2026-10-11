@@ -1,0 +1,36 @@
+Dx
+Local anesthetic exposure |
+- and -
+CNS signs if awake | altered mentation | seizures ||CV signs | bradycardia | hypotension | ventricular arrhythmias | cardiac arrest
+
+Tx
+1 Communicate with team
+Call for help
+Request intralipid [Intralipid 20%]
+2. Stop local anesthetic injection
+3. Check the patient
+If no pulse/HR, go to cardiac arrest checklist [Cardiac Arrest]
+Verify adequate oxygenation & ventilation
+Treat seizures with benzodiazepines such as [Drugs (Midazolam) 540]
+4. Stop all anesthetics
+Consider reversal of alpha2 agonists & opioids such as [Drugs (Atipamazole) 570]
+5. Treat hypotension 
+Low dose [Drugs (Epinephrine) 570] 0.5 - 1 mcg/kg 
+Avoid vasopressin, calcium channel blockers, beta blockers, and other local anesthetics
+6. Administer intralipid 
+Dosing [Intralipid 20%]
+
+Drug doses:
+Atipamazole IM 100 mcg/kg | 5000 mcg/mL
+Diazepam IV 0.5 mg/kg | 5 mg/mL
+Epinephrine bolus 0.5 mcg/kg | 1 mg/mL
+Midazolam 0.5 mg/kg | 5 mg/mL
+Naloxone 40 mcg/kg | 400 mcg/mL
+EPINEPHrine infusion 0.02 mcg/kg/min | self dilute
+
+Drug doses:
+**Intralipid 20%**
+Intralipid 20%
+Bolus 1.5 mL/kg  | self dilute
+Follow with
+Infusion 0.25 mL/kg/min | self dilute

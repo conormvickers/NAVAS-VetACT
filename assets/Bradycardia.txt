@@ -1,0 +1,34 @@
+Dx
+Dog | HR <60 bpm with hypotension | or | HR <30 bpm || Cat | HR <100 bpm with hypotension | or | HR <80 bpm
+
+Tx
+1 Communicate with team
+Stop surgical manipulation
+Call for help
+2 Check the patient:
+Pulse quality, blood pressure
+If no pulse/HR, start CPR [Cardiac Arrest]
+Confirm adequate oxygenation/ventilation. If hypoxemia go to [Hypoxemia]
+3 Atropine 
+Administer [Drugs (Atropine) 320] 0.04 mg/kg IV 
+Consider repeating [Drugs (Atropine) 320]
+4 Decrease or stop all anesthetics 
+Consider reversal of alpha-2 agonists [Drugs (Atipamezole) 10] 
+Consider reversal of opioids [Drugs (Naloxone) 909]
+5 If atropine ineffective:
+[Drugs (Epinephrine) 535] bolus 0.5 - 1 mcg / kg
+Infusion of [Drugs (Epinephrine) 1000] 
+Infusion of [Drugs (Dobutamine) 2000]
+Consider [Hyperkalemia]
+Cardiology consult +/- pacing
+
+Drug doses:
+Bolus Dosing
+Atipamazole IM 100 mcg/kg | 5000 mcg/mL
+Atropine IV 0.04 mg/kg | 0.4 mg/mL
+EPInephrine IV 0.5 mcg/kg | 1 mg/mL
+ePHEDrine IV 0.05 mg/kg | self dilute
+Naloxone IV 0.02 mg/kg | 0.4 mg/mL
+Infusion Dosing
+Dobutamine Inf 10-20 mcg/kg/min | self dilute
+EPInephrine Inf 0.01-0.2 mcg/kg/min | self dilute
